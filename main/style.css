@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(#0d0d0d, #000);
+  color: #0ff;
+  font-family: 'Share Tech Mono', monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.glitch {
+  font-size: 4vw;
+  position: relative;
+  color: #0ff;
+  animation: flicker 3s infinite;
+  text-align: center;
+}
+
+.glitch::before, .glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.glitch::before {
+  animation: glitchTop 2s infinite linear;
+  color: #f0f;
+  top: -2px;
+}
+
+.glitch::after {
+  animation: glitchBottom 1.5s infinite linear;
+  color: #0ff;
+  top: 2px;
+}
+
+@keyframes glitchTop {
+  0% { clip-path: inset(0 0 90% 0); }
+  20% { clip-path: inset(10% 0 80% 0); }
+  40% { clip-path: inset(30% 0 60% 0); }
+  60% { clip-path: inset(50% 0 40% 0); }
+  80% { clip-path: inset(70% 0 20% 0); }
+  100% { clip-path: inset(0 0 90% 0); }
+}
+
+@keyframes glitchBottom {
+  0% { clip-path: inset(80% 0 0 0); }
+  20% { clip-path: inset(60% 0 20% 0); }
+  40% { clip-path: inset(40% 0 40% 0); }
+  60% { clip-path: inset(20% 0 60% 0); }
+  80% { clip-path: inset(0 0 80% 0); }
+  100% { clip-path: inset(80% 0 0 0); }
+}
+
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    opacity: 1;
+  }
+  20%, 24%, 55% {
+    opacity: 0.2;
+  }
+}
+
+.nojs-msg {
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: #888;
+}
