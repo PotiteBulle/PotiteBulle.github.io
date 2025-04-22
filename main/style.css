@@ -7,8 +7,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   background: radial-gradient(#0d0d0d, #000);
   color: #0ff;
   font-family: 'Share Tech Mono', monospace;
@@ -17,14 +17,75 @@ html, body {
   justify-content: center;
   overflow: hidden;
   flex-direction: column;
+  text-align: center;
+  position: relative;
 }
 
+/* === TERMINAL DE DÉMARRAGE === */
+.terminal-screen {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: black;
+  color: #f852b9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  font-size: 1rem;
+}
+
+.boot-lines {
+  display: flex;
+  flex-direction: column;
+  animation: bootScroll 5s steps(5, end) forwards;
+}
+
+.boot-lines p {
+  height: 1.5rem;
+  margin: 0;
+  padding: 0;
+  opacity: 0;
+  text-align: left;
+}
+
+.boot-lines p:nth-child(1) { animation: appear 1s forwards 0s; }
+.boot-lines p:nth-child(2) { animation: appear 1s forwards 1s; }
+.boot-lines p:nth-child(3) { animation: appear 1s forwards 2s; }
+.boot-lines p:nth-child(4) { animation: appear 1s forwards 3s; }
+.boot-lines p:nth-child(5) { animation: appear 1s forwards 4s; }
+
+@keyframes appear {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes bootScroll {
+  0%   { transform: translateY(0); }
+  100% { transform: translateY(-6rem); }
+}
+
+/* === CONTENU PRINCIPAL === */
+#main-content.hidden {
+  display: none;
+  opacity: 0;
+}
+
+#main-content.show {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+/* === EFFET GLITCH PRINCIPAL === */
 .glitch {
-  font-size: 4vw;
+  font-size: clamp(2rem, 5vw, 4rem);
   position: relative;
   color: #0ff;
   animation: flicker 3s infinite;
-  text-align: center;
 }
 
 .glitch::before, .glitch::after {
@@ -48,12 +109,11 @@ html, body {
 }
 
 .glitch-2 {
-  font-size: 2vw;
+  font-size: clamp(1rem, 2.5vw, 2rem);
   margin-top: 1rem;
   position: relative;
   color: #f0f;
   animation: flicker 2.5s infinite;
-  text-align: center;
 }
 
 .glitch-2::before, .glitch-2::after {
@@ -77,54 +137,36 @@ html, body {
 }
 
 .glitch-link {
-  font-size: 1.2vw;
-  margin-top: 1.5rem;
+  font-size: clamp(1rem, 1.5vw, 1.5rem);
+  margin-top: 2rem;
   text-decoration: none;
   color: #0ff;
   position: relative;
   animation: flicker 2.5s infinite;
-  text-align: center;
   transition: color 0.3s ease;
-}
-
-.glitch-link::before, .glitch-link::after {
-  content: attr(data-text);
-  position: absolute;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  pointer-events: none;
 }
 
 .glitch-link:hover {
   color: #f0f;
 }
 
-.glitch-link:hover::before {
-  color: #f0f;
-}
-
-.glitch-link:hover::after {
-  color: #0ff;
-}
-
-
+/* === ANIMATIONS GLITCH REPAIRÉES === */
 @keyframes glitchTop {
-  0% { clip-path: inset(0 0 90% 0); }
-  20% { clip-path: inset(10% 0 80% 0); }
-  40% { clip-path: inset(30% 0 60% 0); }
-  60% { clip-path: inset(50% 0 40% 0); }
-  80% { clip-path: inset(70% 0 20% 0); }
-  100% { clip-path: inset(0 0 90% 0); }
+  0%   { clip-path: inset(0 0 90% 0); transform: translateX(0); }
+  20%  { clip-path: inset(10% 0 80% 0); transform: translateX(-2px); }
+  40%  { clip-path: inset(30% 0 60% 0); transform: translateX(2px); }
+  60%  { clip-path: inset(50% 0 40% 0); transform: translateX(-1px); }
+  80%  { clip-path: inset(70% 0 20% 0); transform: translateX(1px); }
+  100% { clip-path: inset(0 0 90% 0); transform: translateX(0); }
 }
 
 @keyframes glitchBottom {
-  0% { clip-path: inset(80% 0 0 0); }
-  20% { clip-path: inset(60% 0 20% 0); }
-  40% { clip-path: inset(40% 0 40% 0); }
-  60% { clip-path: inset(20% 0 60% 0); }
-  80% { clip-path: inset(0 0 80% 0); }
-  100% { clip-path: inset(80% 0 0 0); }
+  0%   { clip-path: inset(80% 0 0 0); transform: translateX(0); }
+  20%  { clip-path: inset(60% 0 20% 0); transform: translateX(2px); }
+  40%  { clip-path: inset(40% 0 40% 0); transform: translateX(-2px); }
+  60%  { clip-path: inset(20% 0 60% 0); transform: translateX(1px); }
+  80%  { clip-path: inset(0 0 80% 0); transform: translateX(-1px); }
+  100% { clip-path: inset(80% 0 0 0); transform: translateX(0); }
 }
 
 @keyframes flicker {
@@ -136,8 +178,27 @@ html, body {
   }
 }
 
+/* === SCANLINES BONUS (glitch ambiance) === */
+body::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    rgba(0, 255, 255, 0.03) 1px,
+    transparent 2px
+  );
+  pointer-events: none;
+  z-index: 1;
+  animation: flicker 1s infinite;
+}
+
+/* === JS Fallback Message === */
 .nojs-msg {
-  margin-top: 2rem;
   font-size: 1rem;
   color: #888;
+  margin-top: 2rem;
 }

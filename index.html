@@ -1,36 +1,50 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <meta name="author" content="Potate_Bulle" />
+  <meta name="description" content="Cyber · NetRunning · Modération" />
+  <meta name="keywords" content="Netrunning, modération, Potate_Bulle" />
+  <meta property="og:title" content="Cyber · NetRunning · Modération" />
+  <meta property="og:description" content="Réalisée par Potate_Bulle" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fr_FR" />
+  <meta property="og:site_name" content="Potate_Bulle" />
+  <link rel="stylesheet" href="main/style.css" />
+  <link rel="icon" href="/images/icon.png" type="image/x-icon" />
 
-    <meta name="author" content="Potate_Bulle">
-  <meta name="description" content="Cyber / NetRunning · Modération">
-  <meta name="keywords" content="Netrunning, modération, Potate_Bulle">
-  <meta property="og:title" content="Cyber / NetRunning · Modération">
-  <meta property="og:description" content="Réalisée par Potate_Bulle">
-  <meta property="og:type" content="website">
-  <meta property="og:locale" content="fr_FR">
-  <meta property="og:site_name" content="Potate_Bulle">
-  <link rel="stylesheet" href="main/style.css">
-  <link rel="shortcut icon" href="/images/icon.png" type="image/x-icon">
-
-    <title>Potate_Bulle</title>
+  <title>Potate_Bulle</title>
 </head>
 <body>
-    <script>
-        console.log("Je fonctionne sans JS");
-      </script>
-    <div class="glitch" data-text="Cyber · NetRunning · Modération">Cyber · NetRunning · Modération</div>
-    <div class="glitch-2" data-text="Bun · Node · Shell · PowerShell · Python · Docker">Bun · Node · Shell · PowerShell · Python · Docker</div>
-    <a href="https://bsky.app/profile/potatebulle.info" class="glitch-link" target="_blank" rel="noopener">
+
+  <!-- Écran terminal -->
+  <div class="terminal-screen" id="boot" role="status" aria-live="polite">
+    <div class="boot-lines" aria-hidden="true">
+      <p>> Initialisation du système...</p>
+      <p>> Chargement des modules [OK]</p>
+      <p>> Récupération des identifiants...</p>
+      <p>> Connexion établie avec le Netrun...</p>
+      <p>.....</p>
+    </div>
+  </div>
+
+  <!-- Contenu principal -->
+  <main id="main-content" class="hidden" role="main" aria-label="Profil de Potate_Bulle">
+    <h1 class="glitch" data-text="Cyber · NetRunning · Modération">Cyber · NetRunning · Modération</h1>
+    <p class="glitch-2" data-text="Bun · Node · Shell · PowerShell · Python · Docker">
+      Bun · Node · Shell · PowerShell · Python · Docker
+    </p>
+    <a href="https://bsky.app/profile/potatebulle.info" class="glitch-link" target="_blank" rel="noopener noreferrer" aria-label="Visiter mon profil Bluesky">
       → ENTER
     </a>
-    <noscript>
-        <div class="nojs-msg">Cette page fonctionne même sans JavaScript !</div>
-      </noscript>
+  </main>
 
+  <noscript>
+    <p class="nojs-msg">Cette page fonctionne même sans JavaScript !</p>
+  </noscript>
 
+  <script src="main/main.js"></script>
 </body>
 </html>
