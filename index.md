@@ -2,6 +2,8 @@
 title: Veille & Modération – Violences sexuelles numériques
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Veille bénévole & modération face aux violences sexuelles numériques
 
 **Trigger Warning – Contenus sensibles**  
