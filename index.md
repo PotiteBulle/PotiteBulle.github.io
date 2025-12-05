@@ -24,7 +24,7 @@ Il ne remplace en aucun cas une prise en charge médicale, psychologique ou juri
 Ce site est un espace de **documentation et de retour d’expérience** sur :
 
 - le fonctionnement de certains serveurs et communautés en ligne ;
-- les schémas de prédation et de violences sexuelles numériques ;
+- les schémas de prédation et de [violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html) ;
 - le travail de modération bénévole au quotidien ;
 - les limites des plateformes et les outils de signalement existants ;
 - des pistes pour mieux se protéger et soutenir les victimes.
