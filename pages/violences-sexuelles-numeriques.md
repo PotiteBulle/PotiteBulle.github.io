@@ -44,7 +44,7 @@ Dans tous ces cas, la personne perd le contrôle de ses images, pour des années
 - Création de montages ou de deepfakes plaçant le visage d’une personne sur un corps nu ou dans une scène sexuelle.
 - Circulation de ces images dans des serveurs ou salons dédiés à des personnes identifiables (influenceureuses, streameureuses, proches, camarades de classe, collègues…).
 
-Même si la scène n’a jamais eu lieu, la violence est bien réelle : l’image touche à l’intimité, à la réputation, et peut être utilisée pour harceler, humilier ou faire pression.
+Même si la scène n’a jamais eu lieu, la violence est bien réelle : l’image touche à l’intimité, à la réputation, et est utilisée pour harceler, humilier ou faire pression.
 
 ---
 
