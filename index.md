@@ -85,7 +85,7 @@ L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es 
 - Une **explication de ma manière de documenter sans exposer les victimes** :  
   [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html) ;
 - Un **journal de veille anonymisé (exemple)** (à venir), décrivant des cas typiques sans nommer de personnes ni de serveurs ;
-- Des **pistes de signalement et de protection** : comment utiliser les outils internes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
+- Des **pistes de signalement et de protection** : comment utiliser les outils internes / externes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
 
 ---
 
