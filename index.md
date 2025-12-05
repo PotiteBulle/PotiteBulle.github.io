@@ -137,11 +137,11 @@ C’est un espace de **documentation, de prévention et de sensibilisation**.
 
 ---
 
-## Licence & droits d’auteur
+## Licence & droits d’auteur·ice
 
 Je n’ai volontairement appliqué **aucune licence de réutilisation** à ce contenu.  
 
-Sauf mention contraire, **l’ensemble du contenu texte de ce site est protégé par le droit d’auteur**.  
+Sauf mention contraire, **l’ensemble du contenu texte de ce site est protégé par le droit d’auteur·ice**.  
 Aucune reproduction, diffusion, traduction ou adaptation, même partielle, n’est autorisée sans mon accord explicite.
 
 ---
