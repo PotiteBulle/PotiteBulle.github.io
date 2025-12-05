@@ -54,23 +54,21 @@ Mon rôle n’est pas de “jouer à la justice”, mais de :
 
 ## Ce que ce site n’est pas
 
-Ce site **n’est pas** :
-
-- une liste publique de “coupables” ou de pseudos à harceler ;
-- un espace de doxxing, de vengeance ou de chasse aux sorcières ;
-- un lieu où sont hébergés des contenus explicites, violents ou illégaux.
+- Une liste publique de “coupables” ou de pseudos à harceler ;
+- Un espace de doxxing, de vengeance ou de chasse aux sorcières ;
+- Un lieu où sont hébergés des contenus explicites, violents ou illégaux.
 
 Je ne publie pas :
 
-- d’identifiants complets (pseudos, IDs, liens directs de serveurs) ;
-- de contenus illégaux ;
-- de captures permettant de reconnaître des victimes ou des auteur·ices.
+- D’identifiants complets (pseudos, IDs, liens directs de serveurs) ;
+- De contenus illégaux ;
+- De captures permettant de reconnaître des victimes ou des auteur·ices.
 
 Les exemples présentés sont :
 
-- soit anonymisés ;
-- soit fortement caviardés ;
-- soit reconstruits à partir de cas réels pour qu’ils restent **non ré-identifiants**.
+- Soit anonymisés ;
+- Soit fortement caviardés ;
+- Soit reconstruits à partir de cas réels pour qu’ils restent **non ré-identifiants**.
 
 L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es en pâture.
 
@@ -78,18 +76,16 @@ L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es 
 
 ## Ce que vous trouverez ici
 
-Sur ce site, vous trouverez :
-
-- des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quelles dynamiques) ;
-- des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
-- une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
+- Des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quelles dynamiques) ;
+- Des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
+- Une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
   [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html) ;
-- une **typologie de serveurs de leaks, tributes et espaces de prédation** :  
+- Une **typologie de serveurs de leaks, tributes et espaces de prédation** :  
   [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.html) ;
-- une **explication de ma manière de documenter sans exposer les victimes** :  
+- Une **explication de ma manière de documenter sans exposer les victimes** :  
   [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html) ;
-- un **journal de veille anonymisé** (à venir), décrivant des cas typiques sans nommer de personnes ni de serveurs ;
-- des **pistes de signalement et de protection** : comment utiliser les outils internes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
+- Un **journal de veille anonymisé (exemple)** (à venir), décrivant des cas typiques sans nommer de personnes ni de serveurs ;
+- Des **pistes de signalement et de protection** : comment utiliser les outils internes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
 
 ---
 
