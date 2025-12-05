@@ -49,6 +49,8 @@ Je note ici les grandes évolutions du site :
 
 - `05/12/2025` : création du dépôt, ajout de `index.md` (page d’accueil + disclaimer + cadre éthique).
 - `05/12/2025` : Ajout de la page [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html)
+- `05/12/2025` : Ajout de la page [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.html) 
+- `05/12/2025` : Ajout de la page [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html)
 - (à venir) ajout des premières pages thématiques.
 - (à venir) mise à jour de la section ressources.
 
