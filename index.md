@@ -80,4 +80,70 @@ L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es 
 
 Sur ce site, vous trouverez :
 
-- des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quel
+- des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quelles dynamiques) ;
+- des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
+- un **journal de veille anonymisé**, décrivant des cas typiques sans nommer de personnes ni de serveurs ;
+- des **pistes de signalement et de protection** : comment utiliser les outils internes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
+
+---
+
+## Cadre éthique
+
+Je m’impose quelques principes simples :
+
+- **Protection des victimes en priorité**  
+  Rien ne justifie de réexposer quelqu’un à un traumatisme. Les détails et preuves complètes restent en privé, dans un cadre probatoire (signalements, dossiers).
+
+- **Pas d’appel au harcèlement**  
+  Je ne demande à personne d’attaquer, insulter ou traquer qui que ce soit.  
+  Ce site n’est pas une arme, c’est un espace de compréhension.
+
+- **Pas de justice parallèle**  
+  Je ne remplace ni la police, ni la justice, ni les équipes Trust & Safety.  
+  Mon rôle est de documenter, d’alerter, et de transmettre aux bons canaux lorsque c’est possible.
+
+- **Respect de la loi**  
+  Je n’héberge pas de contenus illégaux.  
+  Les éléments sensibles (captures, IDs, logs) sont conservés en privé et uniquement dans une optique de preuve et de signalement.
+
+---
+
+## Si vous êtes victime ou témoin
+
+Si vous vous reconnaissez dans une situation décrite ici, ou si vous êtes confronté·e à :
+
+- du chantage à la diffusion de nudes ;
+- des leaks ;
+- du grooming ;
+- de la pédocriminalité ou des contenus pédosexuels ;
+- du harcèlement sexuel ou ciblé,
+
+quelques principes de base :
+
+1. **Ne restez pas seul·e.**  
+   Parlez-en à une personne de confiance si vous le pouvez.
+
+2. **Conservez des preuves**, mais ne les diffusez pas publiquement :  
+   captures d’écran, IDs, dates, liens, sans les partager sur les réseaux.
+
+3. **Signalez aux plateformes concernées**  
+   (Discord, réseaux sociaux, etc.) en utilisant leurs outils officiels de signalement.
+
+4. **Renseignez-vous sur les dispositifs de votre pays**  
+   (services de signalement en ligne, numéros d’écoute, associations spécialisées).
+
+Ce site n’est pas un service d’urgence, ni un endroit où déposer des preuves.  
+C’est un espace de **documentation, de prévention et de sensibilisation**.
+
+---
+
+## Licence & droits d’auteur
+
+Je n’ai volontairement appliqué **aucune licence de réutilisation** à ce contenu.  
+
+Sauf mention contraire, **l’ensemble du contenu texte de ce site est protégé par le droit d’auteur**.  
+Aucune reproduction, diffusion, traduction ou adaptation, même partielle, n’est autorisée sans mon accord explicite.
+
+---
+
+© Potite_Bulle – Tous droits réservés.
