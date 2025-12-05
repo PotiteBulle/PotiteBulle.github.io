@@ -14,7 +14,7 @@ Ce site aborde des sujets liés aux violences sexuelles numériques, aux leaks, 
 Aucun contenu explicite ou illégal n’est hébergé ici, mais certains textes peuvent évoquer des situations traumatisantes ou choquantes.  
 Si vous vous sentez en difficulté en lisant ces pages, prenez une pause, parlez-en à une personne de confiance et n’hésitez pas à consulter des ressources d’aide spécialisées.  
 
-Ce site a pour objectif **l’information, la prévention et la sensibilisation**.  
+Ce site a pour objectif <strong>l’information, la prévention et la sensibilisation</strong>.  
 Il ne remplace en aucun cas une prise en charge médicale, psychologique ou juridique, ni les dispositifs officiels de signalement.
 </div>
 ---
