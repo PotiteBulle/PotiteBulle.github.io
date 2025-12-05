@@ -83,8 +83,12 @@ Sur ce site, vous trouverez :
 - des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quelles dynamiques) ;
 - des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
 - une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
-  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html)
-- un **journal de veille anonymisé**, décrivant des cas typiques sans nommer de personnes ni de serveurs ;
+  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html) ;
+- une **typologie de serveurs de leaks, tributes et espaces de prédation** :  
+  [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.html) ;
+- une **explication de ma manière de documenter sans exposer les victimes** :  
+  [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html) ;
+- un **journal de veille anonymisé** (à venir), décrivant des cas typiques sans nommer de personnes ni de serveurs ;
 - des **pistes de signalement et de protection** : comment utiliser les outils internes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
 
 ---
