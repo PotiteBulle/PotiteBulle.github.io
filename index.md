@@ -6,7 +6,8 @@ title: Veille & Modération – Violences sexuelles numériques
 
 # Veille bénévole & modération face aux violences sexuelles numériques
 
-**Trigger Warning – Contenus sensibles**  
+<div class="tw-box">
+<strong>Trigger Warning – Contenus sensibles</strong><br> 
 
 Ce site aborde des sujets liés aux violences sexuelles numériques, aux leaks, aux deepfakes, au harcèlement, à la pédocriminalité et à la prédation en ligne.  
 
@@ -15,7 +16,7 @@ Si vous vous sentez en difficulté en lisant ces pages, prenez une pause, parlez
 
 Ce site a pour objectif **l’information, la prévention et la sensibilisation**.  
 Il ne remplace en aucun cas une prise en charge médicale, psychologique ou juridique, ni les dispositifs officiels de signalement.
-
+</div>
 ---
 
 ## À propos de ce site
