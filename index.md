@@ -23,11 +23,11 @@ Il ne remplace en aucun cas une prise en charge médicale, psychologique ou juri
 
 Ce site est un espace de **documentation et de retour d’expérience** sur :
 
-- le fonctionnement de certains serveurs et communautés en ligne ;
-- les schémas de prédation et de violences sexuelles numériques ;
-- le travail de modération bénévole au quotidien ;
-- les limites des plateformes et les outils de signalement existants ;
-- des pistes pour mieux se protéger et soutenir les victimes.
+- Le fonctionnement de certains serveurs et communautés en ligne ;
+- Les schémas de prédation et de violences sexuelles numériques ;
+- Le travail de modération bénévole au quotidien ;
+- Les limites des plateformes et les outils de signalement existants ;
+- Des pistes pour mieux se protéger et soutenir les victimes.
 
 L’objectif n’est pas de faire du “drama” ni du sensationnalisme, mais de mettre en lumière des mécanismes qui restent souvent cachés, minimisés ou normalisés.
 
@@ -40,9 +40,9 @@ Je ne suis **ni policier·ère, ni magistrat·e, ni psychologue** : je suis une 
 
 - des leaks ;
 - des deepnudes, tributes, deepfakes ;
-- de la fétichisation raciste ;
-- de la prédation sur mineur·es ;
-- du harcèlement ciblé via des serveurs “scred” ou des espaces pseudo-privés.
+- De la fétichisation raciste ;
+- De la prédation sur mineur·es ;
+- Du harcèlement ciblé via des serveurs “scred” ou des espaces pseudo-privés.
 
 Mon rôle n’est pas de “jouer à la justice”, mais de :
 
