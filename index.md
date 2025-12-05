@@ -38,8 +38,8 @@ L’objectif n’est pas de faire du “drama” ni du sensationnalisme, mais de
 Je suis **modérateurice bénévole**, actif·ve sur plusieurs communautés en ligne.  
 Je ne suis **ni policier·ère, ni magistrat·e, ni psychologue** : je suis une personne qui, comme beaucoup d’autres, a été confrontée à la banalisation :
 
-- des leaks ;
-- des deepnudes, tributes, deepfakes ;
+- Des leaks ;
+- Des deepnudes, tributes, deepfakes, etc... ;
 - De la fétichisation raciste ;
 - De la prédation sur mineur·es ;
 - Du harcèlement ciblé via des serveurs “scred” ou des espaces pseudo-privés.
