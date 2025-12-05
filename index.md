@@ -82,6 +82,8 @@ Sur ce site, vous trouverez :
 
 - des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quelles dynamiques) ;
 - des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
+- une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
+  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html)
 - un **journal de veille anonymisé**, décrivant des cas typiques sans nommer de personnes ni de serveurs ;
 - des **pistes de signalement et de protection** : comment utiliser les outils internes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
 
