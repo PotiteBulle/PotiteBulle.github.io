@@ -140,15 +140,15 @@ Il existe des serveurs NSFW où des adultes consentant·es partagent des contenu
 
 La différence avec les serveurs problématiques se situe notamment dans :
 
-- La présence ou non de contenus non consentis (leaks, deepfakes, tributes sur des personnes non consentantes) ;
-- La présence ou non de mineur·es, ou de catégories laissant entendre leur sexualisation ;
+- La présence ou non de contenus non consentis (leaks, deepfakes, tributes sur des personnes non consentantes).
+- La présence ou non de mineur·es, ou de catégories laissant entendre leur sexualisation.
 - La présence ou non de règles claires, d’une modération stricte, et d’un refus catégorique des contenus non consentis.
 
 Un serveur où il y a :
 
-- Partage massivement des vidéos sans sources claires,
-- Tolère ou encourage les leaks et la prédation,
-- Organise des demandes de nudes de tiers,
+- Partage massivement des vidéos sans sources claires.
+- Tolère ou encourage les leaks et la prédation.
+- Organise des demandes de nudes de tiers.
 
 **Ne peut pas être considéré comme un simple « espace NSFW ».**
 
@@ -158,8 +158,8 @@ Un serveur où il y a :
 
 L’objectif de cette page est de :
 
-- Donner des repères pour reconnaître des schémas problématiques ;
-- Permettre aux personnes concernées de mettre des mots sur ce qu’iels voient ou subissent ;
+- Donner des repères pour reconnaître des schémas problématiques.
+- Permettre aux personnes concernées de mettre des mots sur ce qu’iels voient ou subissent.
 - Aider les modérateurices et bénévoles à mieux documenter et signaler ces espaces.
 
 Elle ne remplace pas le travail d’enquête, ni les procédures des plateformes ou des autorités compétentes, mais peut servir de base pour comprendre <strong>que ces structures ne sont pas anodines</strong>.

@@ -103,9 +103,9 @@ Si vous n’êtes pas en France :
 
 Pour les personnes victimes ou témoins de violences sexuelles numériques :
 
-- parlez-en, si possible, à une personne de confiance (ami·e, proche, parents, membre de communauté en qui vous avez confiance).  
-- consultez un·e professionnel·le de santé (médecin, psychologue, psychiatre) si vous en avez la possibilité.  
-- certaines associations proposent des <strong>groupes de parole</strong> ou des accompagnements spécialisés pour les victimes de cyberviolences.
+- Parlez-en, si possible, à une personne de confiance (ami·e, proche, parents, membre de communauté en qui vous avez confiance).  
+- Consultez un·e professionnel·le de santé (médecin, psychologue, psychiatre) si vous en avez la possibilité.  
+- Certaines associations proposent des <strong>groupes de parole</strong> ou des accompagnements spécialisés pour les victimes de cyberviolences.
 
 **Il n’y a aucune honte à demander de l’aide, même longtemps après les faits.**
 

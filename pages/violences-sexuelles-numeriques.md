@@ -107,12 +107,12 @@ Le problème, c’est quand des tiers s’approprient l’image, le corps et l�
 
 Les impacts incluent :
 
-- anxiété, crises d’angoisse, troubles du sommeil ;
-- sentiment de honte, culpabilité, perte de confiance en soi ;
-- isolement social, peur d’aller en cours / au travail / en ligne ;
-- atteinte à la réputation, cyberharcèlement de masse ;
-- difficultés professionnelles (perte d’emploi, manque d’opportunités) ;
-- réactivation de traumas préexistants.
+- Anxiété, crises d’angoisse, troubles du sommeil.
+- Sentiment de honte, culpabilité, perte de confiance en soi.
+- Isolement social, peur d’aller en cours / au travail / en ligne.
+- Atteinte à la réputation, cyberharcèlement de masse.
+- Difficultés professionnelles (perte d’emploi, manque d’opportunités).
+- Réactivation de traumas préexistants.
 
 Ces conséquences sont réelles, même si certains discours tentent de minimiser en parlant de « private joke », « humour » ou « ça reste virtuel ».
 
@@ -122,11 +122,11 @@ Ces conséquences sont réelles, même si certains discours tentent de minimiser
 
 Les lois varient selon les pays, mais dans beaucoup de cas, les violences sexuelles numériques releve de:
 
-- atteinte à la vie privée ;
-- diffusion non consentie d’images intimes ;
-- harcèlement moral & sexuel ;
-- corruption de mineur·es, pédopornographie, grooming ;
-- extorsion, chantage.
+- Atteinte à la vie privée.
+- Diffusion non consentie d’images intimes.
+- Harcèlement moral & sexuel.
+- Corruption de mineur·es, pédopornographie, grooming.
+- Extorsion, chantage.
 
 Cette page n’est pas un conseil juridique:<br>
 <strong>Ces actes ne sont pas « juste du troll / un jeu ».  
@@ -152,9 +152,9 @@ Si vous êtes victime ou témoin de violences sexuelles numériques:
 
 Cette page:
 
-- ne remplace pas un avis médical, psychologique ou juridique ;
-- ne remplace pas les services officiels de signalement ;
-- ne décrit qu’une partie des formes de violences sexuelles numériques.
+- Ne remplace pas un avis médical, psychologique ou juridique.
+- Ne remplace pas les services officiels de signalement.
+- Ne décrit qu’une partie des formes de violences sexuelles numériques.
 
 L’objectif est de mettre des mots sur des situations qui, trop souvent, sont minimisées ou normalisées dans des serveurs, DM ou communautés.
 

@@ -70,19 +70,19 @@ Ici, l’objectif est de comprendre les <strong>mécanismes</strong>, pas d’ex
 
 - **Contexte** : serveur trouvé via un outil d’inspection via des catégories type.  
 - **Architecture** :  
-  - salons nommés par prénom ou pseudo d’influenceureuses / streameuse·rs.  
-  - sous-catégories « leaks », « tributes », « deepnudes », « deepfake ».  
+  - Salons nommés par prénom ou pseudo d’influenceureuses / streameuse·rs.  
+  - Sous-catégories « leaks », « tributes », « deepnudes », « deepfake ».  
 - **Indicateurs de prédation** :  
-  - organisation explicite autour de personnes identifiables.  
-  - incitation à partager des “packs”, montages ou leaks.  
-  - commentaires sexualisés, humiliants, souvent en meute.  
+  - Organisation explicite autour de personnes identifiables.  
+  - Incitation à partager des “packs”, montages ou leaks.  
+  - Commentaires sexualisés, humiliants, souvent en meute.  
 - **Actions** :  
-  - collecte minimale de preuves (captures partielles, sans pseudo ni ID visibles).  
+  - Collecte minimale de preuves (captures partielles, sans pseudo ni ID visibles).  
   - Signalement à la plateforme (Trust & Safety) + bannissement systématique du serveur sur les communautés que je modère. 
-  - rappel interne de mes propres limites (ne pas rester trop longtemps à observer).  
+  - Rappel interne de mes propres limites (ne pas rester trop longtemps à observer).  
 - **Notes** :  
-  - schéma très répandu, souvent dupliqué en plusieurs “versions” du même serveur.  
-  - forte banalisation (“tout le monde fait ça”, “c’est juste des célébrités”).  
+  - Schéma très répandu, souvent dupliqué en plusieurs “versions” du même serveur.  
+  - Forte banalisation (“tout le monde fait ça”, “c’est juste des célébrités”).  
 
 ---
 
@@ -90,19 +90,19 @@ Ici, l’objectif est de comprendre les <strong>mécanismes</strong>, pas d’ex
 
 - **Contexte** : serveur découvert via la promotion croisée d’un autre serveur.  
 - **Architecture** :  
-  - salons “demande-nudes”, “balance-ta-pote”, “ex”, “famille”.  
-  - messages invitant à envoyer des snaps ou comptes de proches pour “dossiers”.  
+  - Salons “demande-nudes”, “balance-ta-pote”, “ex”, “famille”.  
+  - Messages invitant à envoyer des snaps ou comptes de proches pour “dossiers”.  
 - **Indicateurs de prédation** :  
-  - incitation directe à partager des contenus intimes non consentis.  
-  - mentions récurrentes de “potes”, “ex”, “sœur”, “mère”, parfois “mineures”.  
-  - banalisation de la prise de photos à l’insu des personnes.  
+  - Incitation directe à partager des contenus intimes non consentis.  
+  - Mentions récurrentes de “potes”, “ex”, “sœur”, “mère”, parfois “mineures”.  
+  - Banalisation de la prise de photos à l’insu des personnes.  
 - **Actions** :  
-  - documentation synthétique de la structure du serveur.  
-  - signalement à la plateforme + bannissement systématique du serveur sur les communautés que je modère.  
-  - rappel interne de mes propres limites (ne pas rester trop longtemps à observer).  
+  - Documentation synthétique de la structure du serveur.  
+  - Signalement à la plateforme + bannissement systématique du serveur sur les communautés que je modère.  
+  - Rappel interne de mes propres limites (ne pas rester trop longtemps à observer).  
 - **Notes** :  
-  - ce type de serveur repose souvent sur la pression de groupe et le défi.  
-  - risque élevé d’exposition non consentie de mineur·es.
+  - Ce type de serveur repose souvent sur la pression de groupe et le défi.  
+  - Risque élevé d’exposition non consentie de mineur·es.
 
 ---
 
@@ -110,19 +110,19 @@ Ici, l’objectif est de comprendre les <strong>mécanismes</strong>, pas d’ex
 
 - **Contexte** : messages repérés dans un serveur plus large, via des catégories ambiguës (“teen”, “schoolgirls”, etc.).  
 - **Architecture** :  
-  - salons publics avec discussions sexualisant des personnes supposées mineures.  
-  - renvois vers d’autres serveurs ou canaux privés.  
+  - Salons publics avec discussions sexualisant des personnes supposées mineures.  
+  - Renvois vers d’autres serveurs ou canaux privés.  
 - **Indicateurs de prédation** :  
-  - focus récurrent sur l’âge (“15”, “14”, “lycée”, “collège”). 
-  - demande explicite d’images ou vidéos de personnes très jeunes.  
-  - références à des services externes de partage de fichiers.  
+  - Focus récurrent sur l’âge (“15”, “14”, “lycée”, “collège”). 
+  - Demande explicite d’images ou vidéos de personnes très jeunes.  
+  - Références à des services externes de partage de fichiers.  
 - **Actions** :  
-  - collecte rapide de preuves minimum, en veillant à ne pas sauvegarder d’images illégales.  
-  - signalement prioritaire à la plateforme + plateforme de signalement nationale compétente (type PHAROS en France) + bannissement systématique du serveur sur les communautés que je modère.  
-  - retrait immédiat du serveur pour limiter l’exposition personnelle.  
+  - Collecte rapide de preuves minimum, en veillant à ne pas sauvegarder d’images illégales.  
+  - Signalement prioritaire à la plateforme + plateforme de signalement nationale compétente (type PHAROS en France) + bannissement systématique du serveur sur les communautés que je modère.  
+  - Retrait immédiat du serveur pour limiter l’exposition personnelle.  
 - **Notes** :  
-  - cas particulièrement lourds émotionnellement.  
-  - nécessité de pauses, de soutien et d’un cadre strict pour continuer la veille (le temps que le serveur soit Down).
+  - Cas particulièrement lourds émotionnellement.  
+  - Nécessité de pauses, de soutien et d’un cadre strict pour continuer la veille (le temps que le serveur soit Down).
 
 ---
 
@@ -150,8 +150,8 @@ Ce journal :
 - Ne remplace pas une enquête judiciaire ni un rapport d’expert·e.  
 - Sert avant tout à <strong>rendre visibles des mécanismes</strong> de prédation et de banalisation.
 
-Si certaines descriptions vous bousculent, prenez le temps de faire une pause.  
-Votre bien-être passe avant la lecture de ces contenus.
+**Si certaines descriptions vous bousculent, prenez le temps de faire une pause.**  
+**Votre bien-être passe avant la lecture de ces contenus.**
 
 ---
 

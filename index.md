@@ -23,10 +23,10 @@ Il ne remplace en aucun cas une prise en charge médicale, psychologique ou juri
 
 Ce site est un espace de **documentation et de retour d’expérience** sur :
 
-- Le fonctionnement de certains serveurs et communautés en ligne ;
-- Les schémas de prédation et de violences sexuelles numériques ;
-- Le travail de modération bénévole au quotidien ;
-- Les limites des plateformes et les outils de signalement existants ;
+- Le fonctionnement de certains serveurs et communautés en ligne.
+- Les schémas de prédation et de violences sexuelles numériques.
+- Le travail de modération bénévole au quotidien.
+- Les limites des plateformes et les outils de signalement existants.
 - Des pistes pour mieux se protéger et soutenir les victimes.
 
 L’objectif n’est pas de faire du “drama” ni du sensationnalisme, mais de mettre en lumière des mécanismes qui restent souvent cachés, minimisés ou normalisés.
@@ -38,36 +38,36 @@ L’objectif n’est pas de faire du “drama” ni du sensationnalisme, mais de
 Je suis **modérateurice bénévole**, actif·ve sur plusieurs communautés en ligne.  
 Je ne suis **ni policier·ère, ni magistrat·e, ni psychologue** : je suis une personne qui, comme beaucoup d’autres, a été confrontée à la banalisation :
 
-- Des leaks ;
-- Des deepnudes, tributes, deepfakes, etc... ;
-- De la fétichisation raciste ;
-- De la prédation sur mineur·es ;
+- Des leaks.
+- Des deepnudes, tributes, deepfakes, etc...
+- De la fétichisation raciste.
+- De la prédation sur mineur·es.
 - Du harcèlement ciblé via des serveurs “scred” ou des espaces pseudo-privés.
 
 Mon rôle n’est pas de “jouer à la justice”, mais de :
 
-- **documenter** ce que je vois ;
-- **protéger** les personnes dans les communautés où je modère ;
+- **documenter** ce que je vois.
+- **protéger** les personnes dans les communautés où je modère.
 - **signaler** aux plateformes et, lorsque c’est nécessaire, aux dispositifs officiels.
 
 ---
 
 ## Ce que ce site n’est pas
 
-- Une liste publique de “coupables” ou de pseudos à harceler ;
-- Un espace de doxxing, de vengeance ou de chasse aux sorcières ;
+- Une liste publique de “coupables” ou de pseudos à harceler.
+- Un espace de doxxing, de vengeance ou de chasse aux sorcières.
 - Un lieu où sont hébergés des contenus explicites, violents ou illégaux.
 
 Je ne publie pas :
 
-- D’identifiants complets (pseudos, IDs, liens directs de serveurs) ;
-- De contenus illégaux ;
+- D’identifiants complets (pseudos, IDs, liens directs de serveurs).
+- De contenus illégaux.
 - De captures permettant de reconnaître des victimes ou des auteur·ices.
 
 Les exemples présentés sont :
 
-- Soit anonymisés ;
-- Soit fortement caviardés ;
+- Soit anonymisés.
+- Soit fortement caviardés.
 - Soit reconstruits à partir de cas réels pour qu’ils restent **non ré-identifiants**.
 
 L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es en pâture.
@@ -76,18 +76,18 @@ L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es 
 
 ## Ce que vous trouverez ici
 
-- des **analyses de schémas de prédation** : comment ces serveurs sont organisés, quels types de salons existent, quels mots-clés reviennent, quelles dynamiques se mettent en place ;
-- des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
+- des **analyses de schémas de prédation** : comment ces serveurs sont organisés, quels types de salons existent, quels mots-clés reviennent, quelles dynamiques se mettent en place.
+- des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes.
 - une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
-  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html) ;
+  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html).
 - Une **typologie de serveurs de leaks, tributes et espaces de prédation** :  
-  [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.html) ;
+  [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.html)
 - Une **explication de ma manière de documenter sans exposer les victimes** :  
-  [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html) ;
+  [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html)
 - Un **journal de veille anonymisé (Exemple)**, présentant des cas typiques de manière synthétique et non identifiante :  
-  [Journal de veille anonymisé](/pages/journal-veille-anonymise.html) ;
+  [Journal de veille anonymisé](/pages/journal-veille-anonymise.html)
 - Des **ressources et liens utiles** pour l’aide, le signalement et la prévention :  
-  [Ressources & liens utiles](/pages/ressources-liens-utiles.html) ;
+  [Ressources & liens utiles](/pages/ressources-liens-utiles.html)
 - Des **pistes de signalement et de protection** : comment utiliser les outils internes / externes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
 
 ---
@@ -117,11 +117,11 @@ Je m’impose quelques principes simples :
 
 Si vous vous reconnaissez dans une situation décrite ici, ou si vous êtes confronté·e à :
 
-- du chantage à la diffusion de nudes ;
-- des leaks ;
-- du grooming ;
-- de la pédocriminalité ou des contenus pédosexuels ;
-- du harcèlement sexuel ou ciblé,
+- Du chantage à la diffusion de nudes.
+- Des leaks.
+- Du grooming.
+- De la pédocriminalité ou des contenus pédosexuels.
+- Du harcèlement sexuel ou ciblé.
 
 quelques principes de base :
 
