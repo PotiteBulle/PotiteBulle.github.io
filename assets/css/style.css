@@ -25,7 +25,19 @@
    Header GitHub Page
    ========================= */
 .site-title {
-  display: none !important;
+  font-size: 1.4rem !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.02em;
+  margin: 0.75rem 0 0.25rem;
+}
+
+.site-title a {
+  color: #e5e7eb !important;
+  text-decoration: none;
+}
+
+.site-title a:hover {
+  text-decoration: underline;
 }
 
 /* =========================
