@@ -56,7 +56,7 @@ Je note ici les grandes évolutions du site :
 
 
 - Prochaine Update & Upgrade ::  Majeur :: Dys-friendly version & Dark mode version.
-- `06/12/2025` : Update :: Test dark mode version
+- `09/12/2025` : TEST :: Dys-friendly version & Dark mode version.
 
 
 
