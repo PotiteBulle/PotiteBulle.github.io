@@ -54,6 +54,10 @@ Je note ici les grandes évolutions du site :
 - `06/12/2025` : Ajout de la page [Journal de veille anonymisé](/pages/journal-veille-anonymise.md)
 - `06/12/2025` : Ajout de la page [Ressources & liens utiles](/pages/ressources-liens-utiles.md)
 
+
 - Prochaine Update & Upgrade ::  Majeur :: Dys-friendly version & Dark mode version.
+- `06/12/2025` : Update :: Test dark mode version
+
+
 
 Pour l’historique détaillé, se référer aux commits Git de ce dépôt.

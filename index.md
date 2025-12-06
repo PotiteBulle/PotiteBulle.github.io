@@ -1,8 +1,17 @@
 ---
-title: Veille & Modération – Violences sexuelles numériques
+title: Veille & modération – Violences sexuelles numériques
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
+
+<nav class="top-nav">
+  <a href="/" class="active">Accueil</a>
+  <a href="/pages/violences-sexuelles-numeriques.html">Comprendre les violences</a>
+  <a href="/pages/typologie-serveurs.html">Typologie de serveurs</a>
+  <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
+  <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
+  <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+</nav>
 
 # Veille bénévole & modération face aux violences sexuelles numériques
 

@@ -1,8 +1,17 @@
 ---
-title: Typologie de serveurs de leaks, tributes et prédation
+title: Typologie de serveurs de leaks / tributes
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
+
+<nav class="top-nav">
+  <a href="/">Accueil</a>
+  <a href="/pages/violences-sexuelles-numeriques.html">Comprendre les violences</a>
+  <a href="/pages/typologie-serveurs.html" class="active">Typologie de serveurs</a>
+  <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
+  <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
+  <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+</nav>
 
 # Typologie de serveurs de leaks, tributes et prédation
 
