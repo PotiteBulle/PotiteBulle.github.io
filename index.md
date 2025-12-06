@@ -76,15 +76,18 @@ L’objectif est de **décrire des mécanismes**, pas de jeter des individu·es 
 
 ## Ce que vous trouverez ici
 
-- Des **analyses de schémas de prédation** (comment ces serveurs sont organisés, quels types de salons, quels mots-clés, quelles dynamiques) ;
-- Des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
-- Une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
-  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.md) ;
+- des **analyses de schémas de prédation** : comment ces serveurs sont organisés, quels types de salons existent, quels mots-clés reviennent, quelles dynamiques se mettent en place ;
+- des **retours d’expérience de modération bénévole** : outils, limites, charge mentale, difficultés face à l’inaction des plateformes ;
+- une **page de base pour comprendre ce que sont les violences sexuelles numériques** :  
+  [Comprendre les violences sexuelles numériques](/pages/violences-sexuelles-numeriques.html) ;
 - Une **typologie de serveurs de leaks, tributes et espaces de prédation** :  
-  [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.md) ;
+  [Typologie de serveurs de leaks / tributes](/pages/typologie-serveurs.html) ;
 - Une **explication de ma manière de documenter sans exposer les victimes** :  
-  [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.md) ;
-- Un **journal de veille anonymisé (exemple)** (à venir), décrivant des cas typiques sans nommer de personnes ni de serveurs ;
+  [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.html) ;
+- Un **journal de veille anonymisé (Exemple)**, présentant des cas typiques de manière synthétique et non identifiante :  
+  [Journal de veille anonymisé](/pages/journal-veille-anonymise.html) ;
+- Des **ressources et liens utiles** pour l’aide, le signalement et la prévention :  
+  [Ressources & liens utiles](/pages/ressources-liens-utiles.html) ;
 - Des **pistes de signalement et de protection** : comment utiliser les outils internes / externes des plateformes, à qui s’adresser, comment conserver des preuves sans se mettre en danger.
 
 ---
