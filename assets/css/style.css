@@ -1,48 +1,113 @@
-/* Fond global + typo */
+/* =========================
+   Variables de thème
+   ========================= */
+:root {
+  --bg-body: #020617;          /* fond global */
+  --bg-card: #f9fafb;          /* fond des pages */
+  --text-main: #020617;
+  --text-muted: #374151;
+
+  --accent: #2563eb;
+  --accent-soft: #dbeafe;
+
+  --tw-bg: #fff7ed;
+  --tw-border: #f97316;
+  --tw-text: #9a3412;
+
+  --note-bg: #eff6ff;
+  --note-border: #60a5fa;
+
+  --border-soft: #e5e7eb;
+
+  --radius-lg: 18px;
+  --radius-md: 10px;
+
+  --shadow-md: 0 18px 45px rgba(15, 23, 42, 0.22);
+
+  --font-main: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+/* =========================
+   Fond global + typo
+   ========================= */
+
 body {
   margin: 0;
   padding: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #020617; /* bleu nuit */
-  color: #0f172a;
+  font-family: var(--font-main);
+  background: radial-gradient(circle at top, #0f172a, var(--bg-body));
+  color: var(--text-main);
+  font-size: 17px;
+  line-height: 1.7;
 }
 
-/* Carte centrale : le contenu du site */
+/* =========================
+   Carte centrale (contenu)
+   ========================= */
+
 .page,
 main,
 .markdown-body {
   max-width: 960px;
   margin: 3rem auto 4rem;
   padding: 2.5rem 2.25rem 3rem;
-  background: #f9fafb;
-  border-radius: 16px;
-  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.18);
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
   box-sizing: border-box;
 }
 
-/* Liens du header GitHub Pages (titre du site) */
-.site-title, .site-title a {
-  color: #e5e7eb !important;
+/* Layout plus serré sur mobile */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+    padding: 0 0.5rem;
+  }
+
+  .page,
+  main,
+  .markdown-body {
+    margin: 1.75rem auto 2.5rem;
+    padding: 1.6rem 1.3rem 2.2rem;
+    border-radius: 14px;
+  }
 }
 
-/* Titres */
-h1, h2, h3 {
+/* =========================
+   Titre du site (header GH)
+   ========================= */
+
+.site-title,
+.site-title a {
+  color: #e5e7eb !important;
+  text-decoration: none;
+}
+
+/* =========================
+   Titres
+   ========================= */
+
+h1,
+h2,
+h3 {
   font-weight: 650;
-  color: #020617;
+  color: var(--text-main);
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: clamp(2rem, 2.4vw + 1.2rem, 2.5rem);
   line-height: 1.2;
-  margin-bottom: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 1.3rem;
 }
 
 h2 {
-  margin-top: 2.5rem;
+  margin-top: 2.4rem;
   margin-bottom: 1rem;
   font-size: 1.5rem;
-  border-bottom: 1px solid #e5e7eb;
-  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-soft);
+  padding-bottom: 0.5rem;
 }
 
 h3 {
@@ -51,65 +116,91 @@ h3 {
   font-size: 1.15rem;
 }
 
-/* Paragraphes & listes */
+/* =========================
+   Paragraphes & listes
+   ========================= */
+
 p {
-  margin: 0.4rem 0 0.9rem;
+  margin: 0.4rem 0 0.95rem;
 }
 
 ul {
   padding-left: 1.3rem;
-  margin: 0.3rem 0 1rem;
+  margin: 0.3rem 0 1.1rem;
 }
 
-li {
-  margin-bottom: 0.2rem;
+li + li {
+  margin-top: 0.25rem;
 }
 
-/* Liens */
+/* =========================
+   Liens
+   ========================= */
+
 a {
-  color: #2563eb;
+  color: var(--accent);
   text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
 }
 
-a:hover {
-  text-decoration: underline;
+a:hover,
+a:focus-visible {
+  border-bottom-color: var(--accent);
+  background-color: var(--accent-soft);
+  outline: none;
 }
 
-/* Bloc Trigger Warning / alertes */
+/* =========================
+   Bloc Trigger Warning
+   ========================= */
+
 .tw-box {
-  border-radius: 10px;
-  border: 1px solid #f97316;
-  background: #fff7ed;
-  padding: 0.9rem 1rem;
-  margin: 1.25rem 0 1.5rem;
-  font-size: 0.98rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--tw-border);
+  background: var(--tw-bg);
+  padding: 0.95rem 1.05rem 1.1rem;
+  margin: 1.3rem 0 1.7rem;
+  font-size: 0.97rem;
 }
 
 .tw-box strong {
-  color: #9a3412;
+  color: var(--tw-text);
 }
 
-/* Petites notes / résumés */
+/* =========================
+   Notes / encadrés secondaires
+   ========================= */
+
 .note {
-  border-left: 4px solid #60a5fa;
-  padding-left: 0.75rem;
+  border-left: 4px solid var(--note-border);
+  background: var(--note-bg);
+  padding: 0.55rem 0.8rem;
   margin: 1rem 0;
   font-size: 0.95rem;
-  color: #374151;
+  color: var(--text-muted);
+  border-radius: 0 10px 10px 0;
 }
 
-/* Code inline et blocs */
+/* =========================
+   Code inline
+   ========================= */
+
 code {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
   font-size: 0.9em;
   background: #e5e7eb;
   padding: 0.1rem 0.25rem;
   border-radius: 4px;
 }
 
-/* Séparateurs horizontaux plus doux */
+/* =========================
+   Séparateurs
+   ========================= */
+
 hr {
   border: 0;
-  border-top: 1px solid #e5e7eb;
-  margin: 2.5rem 0 1.8rem;
+  border-top: 1px solid var(--border-soft);
+  margin: 2.3rem 0 1.9rem;
 }
