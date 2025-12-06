@@ -1,161 +1,176 @@
-/* =========================
-   Variables de thème
-   ========================= */
+/* ============================
+   Thème global
+   ============================ */
 :root {
-  --bg-body: #020617;
-  --bg-card: #f9fafb;
-  --text-main: #020617;
-  --text-muted: #374151;
-  --accent: #2563eb;
-  --accent-soft: #dbeafe;
+  --bg-body: #f3f4f6;
+  --bg-card: #ffffff;
+  --text-main: #111827;
+  --text-muted: #4b5563;
+  --accent: #1d4ed8;
+  --accent-soft: #e5edff;
   --tw-bg: #fff7ed;
-  --tw-border: #f97316;
+  --tw-border: #fed7aa;
   --tw-text: #9a3412;
   --note-bg: #eff6ff;
   --note-border: #60a5fa;
   --border-soft: #e5e7eb;
-  --radius-lg: 18px;
+  --radius-lg: 14px;
   --radius-md: 10px;
-  --shadow-md: 0 18px 45px rgba(15, 23, 42, 0.22);
+  --shadow-md: 0 8px 22px rgba(15, 23, 42, 0.06);
   --font-main: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     sans-serif;
 }
 
-/* =========================
-   Header GitHub Page
-   ========================= */
-.site-title {
-  font-size: 1.4rem !important;
-  font-weight: 650 !important;
-  letter-spacing: 0.02em;
-  margin: 0.75rem 0 0.25rem;
-}
-
-.site-title a {
-  color: #e5e7eb !important;
-  text-decoration: none;
-}
-
-.site-title a:hover {
-  text-decoration: underline;
-}
-
-/* =========================
+/* ============================
    Fond global + typo
-   ========================= */
-
+   ============================ */
 body {
   margin: 0;
   padding: 0;
   font-family: var(--font-main);
-  background: radial-gradient(circle at top, #0f172a, var(--bg-body));
+  background: var(--bg-body);
   color: var(--text-main);
-  font-size: 17px;
+  font-size: 16.5px;
   line-height: 1.7;
 }
 
-/* =========================
-   Carte centrale (contenu)
-   ========================= */
+/* ============================
+   Titre du site (header GitHub)
+   ============================ */
+.site-title {
+  font-size: 1.35rem !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.02em;
+  margin: 0.9rem 0 0.3rem;
+}
+.site-title a {
+  color: #111827 !important;
+  text-decoration: none;
+}
+.site-title a:hover {
+  text-decoration: underline;
+}
 
+/* ============================
+   Carte centrale : contenu
+   ============================ */
 .page,
 main,
 .markdown-body {
-  max-width: 960px;
-  margin: 3rem auto 4rem;
-  padding: 2.5rem 2.25rem 3rem;
+  max-width: 900px;
+  margin: 2.5rem auto 3rem;
+  padding: 2.1rem 2rem 2.6rem;
   background: var(--bg-card);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
   box-sizing: border-box;
 }
 
-/* Layout plus serré sur mobile */
-@media (max-width: 768px) {
-  body {
-    font-size: 16px;
-    padding: 0 0.5rem;
-  }
-
+/* Responsive */
+@media (max-width: 720px) {
   .page,
   main,
   .markdown-body {
-    margin: 1.75rem auto 2.5rem;
-    padding: 1.6rem 1.3rem 2.2rem;
-    border-radius: 14px;
+    margin: 1.5rem 1rem 2.3rem;
+    padding: 1.5rem 1.15rem 2rem;
+    border-radius: 12px;
+  }
+  body {
+    font-size: 15.8px;
+  }
+  h1 {
+    font-size: 1.8rem;
   }
 }
 
-/* =========================
-   Titre du site (header GH)
-   ========================= */
-
-.site-title,
-.site-title a {
-  color: #e5e7eb !important;
+/* ============================
+   Menu de navigation interne
+   ============================ */
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 1.4rem;
+}
+.top-nav a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
+  border: 1px solid var(--border-soft);
+  background: #f9fafb;
+  font-size: 0.88rem;
+  color: var(--text-main);
   text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    color 0.15s ease;
+}
+.top-nav a:hover,
+.top-nav a:focus-visible {
+  background: #eef2ff;
+  border-color: #c7d2fe;
+  color: var(--accent);
+  outline: none;
+}
+/* lien actif */
+.top-nav a.active {
+  background: #e0e7ff;
+  border-color: #a5b4fc;
+  color: #1e3a8a;
 }
 
-/* =========================
+/* ============================
    Titres
-   ========================= */
-
+   ============================ */
 h1,
 h2,
 h3 {
   font-weight: 650;
   color: var(--text-main);
 }
-
 h1 {
-  font-size: clamp(2rem, 2.4vw + 1.2rem, 2.5rem);
-  line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 1.3rem;
+  font-size: 2.1rem;
+  line-height: 1.25;
+  margin: 0 0 1.1rem;
 }
-
 h2 {
-  margin-top: 2.4rem;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+  font-size: 1.4rem;
   border-bottom: 1px solid var(--border-soft);
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
 }
-
 h3 {
-  margin-top: 1.8rem;
-  margin-bottom: 0.6rem;
-  font-size: 1.15rem;
+  margin-top: 1.7rem;
+  margin-bottom: 0.55rem;
+  font-size: 1.12rem;
 }
 
-/* =========================
+/* ============================
    Paragraphes & listes
-   ========================= */
-
+   ============================ */
 p {
   margin: 0.4rem 0 0.95rem;
 }
-
 ul {
   padding-left: 1.3rem;
-  margin: 0.3rem 0 1.1rem;
+  margin: 0.35rem 0 1.05rem;
 }
-
 li+li {
   margin-top: 0.25rem;
 }
 
-/* =========================
+/* ============================
    Liens
-   ========================= */
-
+   ============================ */
 a {
   color: var(--accent);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: border-color 0.15s ease, background-color 0.15s ease;
 }
-
 a:hover,
 a:focus-visible {
   border-bottom-color: var(--accent);
@@ -163,27 +178,24 @@ a:focus-visible {
   outline: none;
 }
 
-/* =========================
-   Bloc Trigger Warning
-   ========================= */
-
+/* ============================
+   Bloc Trigger Warning / alertes
+   ============================ */
 .tw-box {
   border-radius: var(--radius-md);
   border: 1px solid var(--tw-border);
   background: var(--tw-bg);
-  padding: 0.95rem 1.05rem 1.1rem;
-  margin: 1.3rem 0 1.7rem;
-  font-size: 0.97rem;
+  padding: 0.9rem 1rem 1.05rem;
+  margin: 1.2rem 0 1.6rem;
+  font-size: 0.96rem;
 }
-
 .tw-box strong {
   color: var(--tw-text);
 }
 
-/* =========================
-   Notes / encadrés secondaires
-   ========================= */
-
+/* ============================
+   Petites notes / encadrés
+   ============================ */
 .note {
   border-left: 4px solid var(--note-border);
   background: var(--note-bg);
@@ -194,10 +206,9 @@ a:focus-visible {
   border-radius: 0 10px 10px 0;
 }
 
-/* =========================
+/* ============================
    Code inline
-   ========================= */
-
+   ============================ */
 code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
@@ -207,12 +218,11 @@ code {
   border-radius: 4px;
 }
 
-/* =========================
-   Séparateurs
-   ========================= */
-
+/* ============================
+   Séparateurs horizontaux
+   ============================ */
 hr {
   border: 0;
   border-top: 1px solid var(--border-soft);
-  margin: 2.3rem 0 1.9rem;
+  margin: 2.2rem 0 1.8rem;
 }
