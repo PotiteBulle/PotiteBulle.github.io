@@ -11,6 +11,10 @@ title: Veille & modération – Violences sexuelles numériques
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
   <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+
+  <button id="theme-toggle" class="theme-toggle" type="button">
+    🌙 Mode sombre
+  </button>
 </nav>
 
 # Veille bénévole & modération face aux violences sexuelles numériques
