@@ -11,6 +11,10 @@ title: Typologie de serveurs de leaks / tributes
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
   <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+
+  <button id="theme-toggle" class="theme-toggle" type="button">
+    🌙 Mode sombre
+  </button>
 </nav>
 
 # Typologie de serveurs de leaks, tributes et prédation
@@ -176,3 +180,5 @@ Elle ne remplace pas le travail d’enquête, ni les procédures des plateformes
 ---
 
 © Potite_Bulle – Tous droits réservés.
+
+<script src="/assets/js/theme-toggle.js"></script>

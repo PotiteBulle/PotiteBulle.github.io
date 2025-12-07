@@ -11,6 +11,10 @@ title: Comprendre les violences sexuelles numériques
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
   <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+
+  <button id="theme-toggle" class="theme-toggle" type="button">
+    🌙 Mode sombre
+  </button>
 </nav>
 
 # Comprendre les violences sexuelles numériques
@@ -170,3 +174,5 @@ L’objectif est de mettre des mots sur des situations qui, trop souvent, sont m
 ---
 
 © Potite_Bulle – Tous droits réservés.
+
+<script src="/assets/js/theme-toggle.js"></script>

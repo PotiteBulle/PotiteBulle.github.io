@@ -11,6 +11,10 @@ title: Journal de veille anonymisé
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html" class="active">Journal de veille</a>
   <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+
+  <button id="theme-toggle" class="theme-toggle" type="button">
+    🌙 Mode sombre
+  </button>
 </nav>
 
 # Journal de veille anonymisé (exemple)
@@ -165,3 +169,5 @@ Ce journal :
 ---
 
 © Potite_Bulle – Tous droits réservés.
+
+<script src="/assets/js/theme-toggle.js"></script>

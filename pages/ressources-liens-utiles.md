@@ -11,6 +11,10 @@ title: Ressources & liens utiles
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
   <a href="/pages/ressources-liens-utiles.html" class="active">Ressources &amp; liens utiles</a>
+
+  <button id="theme-toggle" class="theme-toggle" type="button">
+    🌙 Mode sombre
+  </button>
 </nav>
 
 # Ressources & liens utiles
@@ -162,3 +166,5 @@ N’hésitez pas à demander de l’aide, même si les faits datent.**
 ---
 
 © Potite_Bulle – Tous droits réservés.
+
+<script src="/assets/js/theme-toggle.js"></script>

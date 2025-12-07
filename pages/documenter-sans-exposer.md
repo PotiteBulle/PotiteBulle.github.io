@@ -11,6 +11,10 @@ title: Documenter les serveurs sans exposer les victimes
   <a href="/pages/documenter-sans-exposer.html" class="active">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
   <a href="/pages/ressources-liens-utiles.html">Ressources &amp; liens utiles</a>
+
+  <button id="theme-toggle" class="theme-toggle" type="button">
+    🌙 Mode sombre
+  </button>
 </nav>
 
 # Comment je documente les serveurs sans exposer les victimes
@@ -179,3 +183,5 @@ Documenter suffisamment pour signaler efficacement, sans transformer les victime
 ---
 
 © Potite_Bulle – Tous droits réservés.
+
+<script src="/assets/js/theme-toggle.js"></script>
