@@ -161,3 +161,5 @@ Aucune reproduction, diffusion, traduction ou adaptation, même partielle, n’e
 ---
 
 © Potite_Bulle – Tous droits réservés.
+
+<script src="/assets/js/theme-toggle.js"></script>
