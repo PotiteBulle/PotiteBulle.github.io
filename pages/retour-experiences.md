@@ -38,9 +38,9 @@ violences sexuelles numériques, prédation, pédocriminalité (parfois), cyberh
 
 Je ne suis pas :
 
-- policier·e, gendarme ou magistrat ;
-- juriste spécialisé·e ;
-- psychologue.
+- Policier·e, Gendarme ou Magistrat·e.
+- Juriste spécialisé·e.
+- Psychologue.
 
 Je suis une personne qui, à son niveau, essaie de **repérer, documenter et signaler** des situations à risque, en m’appuyant sur :
 
