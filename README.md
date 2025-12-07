@@ -26,7 +26,7 @@ Structure prévue (évolutive) :
 - `index.md`  
   Page d’accueil du site : introduction, trigger warning, cadre éthique, informations générales.
 
-- `pages/` (à venir)  
+- `pages/` (En cours)  
   Pages thématiques : schémas de serveurs, journal de veille anonymisé, ressources, etc.
 
 ---
