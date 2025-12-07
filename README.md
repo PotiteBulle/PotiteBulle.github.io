@@ -53,7 +53,7 @@ Je note ici les grandes évolutions du site :
 - `05/12/2025` : Ajout de la page [Documenter les serveurs sans exposer les victimes](/pages/documenter-sans-exposer.md)
 - `06/12/2025` : Ajout de la page [Journal de veille anonymisé](/pages/journal-veille-anonymise.md)
 - `06/12/2025` : Ajout de la page [Ressources & liens utiles](/pages/ressources-liens-utiles.md)
-
+- `07/12/2025` : UI TEST : bascule entre mode clair et mode sombre disponibles via petit bouton :  '☀️ Mode clair' : '🌙 Mode sombre' 
 
 - Prochaine Update & Upgrade ::  Majeur :: Dys-friendly version & Dark mode version.
 - `09/12/2025` : TEST :: Dys-friendly version & Dark mode version.
