@@ -88,7 +88,7 @@ Même si je mets en place des outils, je reste une personne, avec :
 - Une énergie limitée.
 - Un accès limité aux espaces (beaucoup de choses se passent dans des DM, des serveurs fermés, ou des réseaux fermés).
 
-Je ne prétends pas “couvrir” tout ce qui existe, ni “garantir” qu’un espace est safe parce **LES ESPACES SAFE N'EXISTE PAS**.
+Je ne prétends pas “couvrir” tout ce qui existe, ni “garantir” qu’un espace est safe parce que **LES ESPACES SAFE N'EXISTE PAS**.
 
 ### 3.2 Je ne peux pas tout traiter
 
