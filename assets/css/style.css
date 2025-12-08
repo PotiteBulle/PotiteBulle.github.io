@@ -3,25 +3,22 @@
    ============================ */
 :root {
   /* Fond général / cartes */
-  --bg-body: #c5bcf1;      /* lavande très claire */
-  --bg-card: #fdfcff;      /* quasi blanc, léger ton rosé */
-  --border-soft: #e5defa;  /* contour doux */
+  --bg-body: #ddd8f3e1;
+  --bg-card: #cdc5f5;
+  --border-soft: #e5defa;
   /* Texte */
   --text-main: #111827;
   --text-muted: #4b5563;
   /* Accent (liens, boutons, hover) */
-  --accent: #6366f1;       /* indigo pastel */
-  --accent-soft: #e0e7ff;  /* fond pastel au survol */
-
+  --accent: #6366f1;
+  --accent-soft: #e0e7ff;
   /* Trigger warning */
   --tw-bg: #fff7ed;
   --tw-border: #fed7aa;
   --tw-text: #9a3412;
-
   /* Notes / encadrés info */
   --note-bg: #ecfeff;
   --note-border: #22c1d6;
-
   /* Rayons / ombres / typo */
   --radius-lg: 14px;
   --radius-md: 10px;
