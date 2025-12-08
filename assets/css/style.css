@@ -3,8 +3,8 @@
    ============================ */
 :root {
   /* Fond général / cartes */
-  --bg-body: #ddd8f3e1;
-  --bg-card: #cdc5f5;
+  --bg-body: #f8d3f3;
+  --bg-card: #ddd8f3e1;
   --border-soft: #e5defa;
   /* Texte */
   --text-main: #111827;
@@ -32,8 +32,8 @@
    ============================ */
 body.dark-mode {
   /* Fond général / cartes */
-  --bg-body: #020617;
-  --bg-card: #020617;
+  --bg-body: #2b076e48;
+  --bg-card: #07465288;
   --border-soft: #1f2937;
 
   /* Texte */
@@ -50,8 +50,8 @@ body.dark-mode {
   --tw-text: #fed7aa;
 
   /* Notes / encadrés info */
-  --note-bg: #020617;
-  --note-border: #38bdf8;
+  --note-bg: #07465288;
+  --note-border: #38bff896;
 
   /* Ombre */
   --shadow-md: 0 12px 32px rgba(15, 23, 42, 0.85);
