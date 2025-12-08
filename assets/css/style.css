@@ -42,6 +42,17 @@ body.dark-mode {
 }
 
 /* ============================
+   Mode Dys (activé avec body.dys-mode)
+   ============================ */
+/* OpenDyslexic pattern font */
+body.dys-mode {
+  --font-main: "OpenDyslexic", "Verdana", "Tahoma", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.9;
+  letter-spacing: 0.03em;
+}
+
+/* ============================
    Fond global + typo
    ============================ */
 body {
@@ -157,11 +168,10 @@ body.dark-mode .top-nav a.active {
 }
 
 /* ============================
-   Bouton dark mode
+   Boutons : dark mode + Dys
    ============================ */
-.theme-toggle {
-  margin-left: auto;
-  /* pousse le bouton à droite du menu */
+.theme-toggle,
+.dys-toggle {
   padding: 0.25rem 0.75rem;
   border-radius: 999px;
   border: 1px solid var(--border-soft);
@@ -177,8 +187,19 @@ body.dark-mode .top-nav a.active {
     border-color 0.15s ease,
     color 0.15s ease;
 }
+
+/* Le bouton dark mode est poussé à droite, le bouton Dys vient à côté */
+.theme-toggle {
+  margin-left: auto;
+}
+.dys-toggle {
+  margin-left: 0.25rem;
+}
+
 .theme-toggle:hover,
-.theme-toggle:focus-visible {
+.theme-toggle:focus-visible,
+.dys-toggle:hover,
+.dys-toggle:focus-visible {
   background: var(--accent-soft);
   border-color: var(--accent);
   color: var(--accent);
@@ -235,7 +256,6 @@ a {
   border-bottom: 1px solid transparent;
   transition: border-color 0.15s ease, background-color 0.15s ease;
 }
-
 a:hover,
 a:focus-visible {
   border-bottom-color: var(--accent);
@@ -254,7 +274,6 @@ a:focus-visible {
   margin: 1.2rem 0 1.6rem;
   font-size: 0.96rem;
 }
-
 .tw-box strong {
   color: var(--tw-text);
 }

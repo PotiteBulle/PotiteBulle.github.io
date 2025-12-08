@@ -16,6 +16,7 @@ title: Retours d’expérience de modération bénévole
 <button id="theme-toggle" class="theme-toggle" type="button">
     🌙 Mode sombre
   </button>
+  <button class="dys-toggle" id="dys-toggle" type="button">Dys</button>
 </nav>
 
 # Retours d’expérience de modération bénévole

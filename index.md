@@ -16,6 +16,7 @@ title: Veille & modération – Violences sexuelles numériques
   <button id="theme-toggle" class="theme-toggle" type="button">
     🌙 Mode sombre
   </button>
+  <button class="dys-toggle" id="dys-toggle" type="button">Dys</button>
 </nav>
 
 # Veille bénévole & modération face aux violences sexuelles numériques

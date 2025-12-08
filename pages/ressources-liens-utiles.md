@@ -16,6 +16,7 @@ title: Ressources & liens utiles
   <button id="theme-toggle" class="theme-toggle" type="button">
     🌙 Mode sombre
   </button>
+  <button class="dys-toggle" id="dys-toggle" type="button">Dys</button>
 </nav>
 
 # Ressources & liens utiles

@@ -16,6 +16,7 @@ title: Documenter les serveurs sans exposer les victimes
   <button id="theme-toggle" class="theme-toggle" type="button">
     🌙 Mode sombre
   </button>
+  <button class="dys-toggle" id="dys-toggle" type="button">Dys</button>
 </nav>
 
 # Comment je documente les serveurs sans exposer les victimes

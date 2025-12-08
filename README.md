@@ -55,11 +55,9 @@ Je note ici les grandes évolutions du site :
 - `06/12/2025` : Ajout de la page [Ressources & liens utiles](/pages/ressources-liens-utiles.md)
 - `07/12/2025` : Ajout de la page [Retour d'expériences](/pages/retour-experiences.md)
 
-
-- `07/12/2025` : UI TEST : bascule entre mode clair et mode sombre disponibles via petit bouton :  '☀️ Mode clair' : '🌙 Mode sombre' 
-
-- Prochaine Update & Upgrade ::  Majeur :: Dys-friendly version & Dark mode version.
-- `09/12/2025` : TEST :: Dys-friendly version & Dark mode version.
+Mise à jours Majeur : 
+- `07/12/2025` : UI : bascule entre mode clair et mode sombre disponibles via petit bouton :  '☀️ Mode clair' : '🌙 Mode sombre' 
+- `08/12/2025` : UI : bascule entre les polices d'écritures & lecture avec Opendyslexic via petit bouton changement d'état : 'Dys' : 'Dys ✔'
 
 
 

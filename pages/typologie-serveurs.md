@@ -16,6 +16,7 @@ title: Typologie de serveurs de leaks / tributes
   <button id="theme-toggle" class="theme-toggle" type="button">
     🌙 Mode sombre
   </button>
+  <button class="dys-toggle" id="dys-toggle" type="button">Dys</button>
 </nav>
 
 # Typologie de serveurs de leaks, tributes et prédation
