@@ -1,44 +1,63 @@
 /* ============================
-   Thème global
+   Thème global – palette pastel
    ============================ */
 :root {
-  --bg-body: #f3f4f6;
-  --bg-card: #ffffff;
+  /* Fond général / cartes */
+  --bg-body: #c5bcf1;      /* lavande très claire */
+  --bg-card: #fdfcff;      /* quasi blanc, léger ton rosé */
+  --border-soft: #e5defa;  /* contour doux */
+  /* Texte */
   --text-main: #111827;
   --text-muted: #4b5563;
-  --accent: #1d4ed8;
-  --accent-soft: #e5edff;
+  /* Accent (liens, boutons, hover) */
+  --accent: #6366f1;       /* indigo pastel */
+  --accent-soft: #e0e7ff;  /* fond pastel au survol */
+
+  /* Trigger warning */
   --tw-bg: #fff7ed;
   --tw-border: #fed7aa;
   --tw-text: #9a3412;
-  --note-bg: #eff6ff;
-  --note-border: #60a5fa;
-  --border-soft: #e5e7eb;
+
+  /* Notes / encadrés info */
+  --note-bg: #ecfeff;
+  --note-border: #22c1d6;
+
+  /* Rayons / ombres / typo */
   --radius-lg: 14px;
   --radius-md: 10px;
-  --shadow-md: 0 8px 22px rgba(15, 23, 42, 0.06);
+  --shadow-md: 0 10px 30px rgba(148, 163, 184, 0.25);
   --font-main: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     sans-serif;
 }
 
 /* ============================
-   Thème sombre (activé avec body.dark-mode)
+   Thème sombre pastel (body.dark-mode)
    ============================ */
 body.dark-mode {
+  /* Fond général / cartes */
   --bg-body: #020617;
   --bg-card: #020617;
-  --text-main: #e5e7eb;
-  --text-muted: #9ca3af;
-  --accent: #60a5fa;
-  --accent-soft: #1e293b;
-  --tw-bg: #1f2937;
-  --tw-border: #f97316;
-  --tw-text: #fed7aa;
-  --note-bg: #0b1120;
-  --note-border: #60a5fa;
   --border-soft: #1f2937;
 
-  --shadow-md: 0 10px 28px rgba(0, 0, 0, 0.6);
+  /* Texte */
+  --text-main: #e5e7eb;
+  --text-muted: #9ca3af;
+
+  /* Accent (liens, boutons) */
+  --accent: #a5b4fc;
+  --accent-soft: #111827;
+
+  /* Trigger warning sombre */
+  --tw-bg: #111827;
+  --tw-border: #fb923c;
+  --tw-text: #fed7aa;
+
+  /* Notes / encadrés info */
+  --note-bg: #020617;
+  --note-border: #38bdf8;
+
+  /* Ombre */
+  --shadow-md: 0 12px 32px rgba(15, 23, 42, 0.85);
 }
 
 /* ============================
