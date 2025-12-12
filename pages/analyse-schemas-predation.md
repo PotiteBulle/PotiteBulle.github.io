@@ -7,7 +7,7 @@ title: Veille & modération – Analyse des schémas de prédation
 <nav class="top-nav">
   <a href="/">Accueil</a>
   <a href="/pages/violences-sexuelles-numeriques.html">Comprendre les violences</a>
-  <a href="/pages/analyse-schemas-predation.html"class="active">Analyse des schémas de prédation</a>
+  <a href="/pages/analyse-schemas-predation.html" class="active">Analyse des schémas de prédation</a>
   <a href="/pages/typologie-serveurs.html">Typologie de serveurs</a>
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille</a>
