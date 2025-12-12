@@ -7,6 +7,7 @@ title: Retours d’expérience de modération bénévole
 <nav class="top-nav">
   <a href="/">Accueil</a>
   <a href="/pages/violences-sexuelles-numeriques.html">Violences sexuelles numériques</a>
+  <a href="/pages/analyse-schemas-predation.html">Analyse des schémas de prédation</a>
   <a href="/pages/typologie-serveurs.html">Typologie de serveurs</a>
   <a href="/pages/documenter-sans-exposer.html">Documenter sans exposer</a>
   <a href="/pages/journal-veille-anonymise.html">Journal de veille anonymisé</a>
