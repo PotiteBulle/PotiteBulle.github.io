@@ -37,7 +37,7 @@ Si la lecture vous met en difficulté, faites une pause, parlez-en à une person
 
 ## À propos de cette analyse
 
-Cette page a pour but de **décrire les schémas récurrents** observés dans les serveurs problématiques : leur structure interne, les stratégies de contournement de la modération, les dynamiques de groupe et les mécanismes sociaux qui favorisent la circulation de contenus sexualisés ou non consentis.
+Cette page a pour but de **décrire les schémas récurrents** observés dans les serveurs problématiques : leur structure interne, les stratégies de contournement de la modération, les dynamiques de groupe et les mécanismes sociaux qui favorisent la circulation de contenus sexualisés non consentis.
 
 Elle s’appuie sur :
 
